@@ -1,0 +1,33 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background: #222;
+	color: #fff;
+	font-family: arial,sans-serif;
+}
+.container{
+	background: #255957;
+	padding: 150px 0px;
+	transform: skew(0deg, -10deg) translateY(-150px);
+}
+.content{
+	transform: skew(0deg,10deg);
+	text-align: center;
+}
+.title{
+	padding-top: 100px;
+	font-weight: normal;
+}
+.para{
+	width: 60%;
+	margin: 25px auto;
+	color: #fff;
+	line-height: 1.5;
+}
+.footer{
+	padding-top: 250px;
+}
+.footer p{
+	text-align: center;
+	opacity: .4;
+}
